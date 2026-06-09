@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephinelawal1&label=Profile%20views&color=0e75b6&style=flat" alt="josephinelawal1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephinelawal1" alt="josephinelawal1" /></a> </p>
+
 - 🌱 I’m currently learning **Salesforce admin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JosephineLawal1](https://github.com/JosephineLawal1)
@@ -20,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephinelawal1&show_icons=true&locale=en&layout=compact" alt="josephinelawal1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephinelawal1&show_icons=true&locale=en" alt="josephinelawal1" /></p>
+
